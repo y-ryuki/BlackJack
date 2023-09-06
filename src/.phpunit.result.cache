@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"BlackJack\\Tests\\CardTest::testGetScore":0.008,"BlackJack\\Tests\\CardTest::testGetCountA":0,"BlackJack\\Tests\\PlayerTest::testGetName":0.008}}
